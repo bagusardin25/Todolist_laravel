@@ -1,0 +1,1 @@
+<h1> {{ $nama }} anda dari training blade </h1>
